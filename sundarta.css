@@ -1,0 +1,44 @@
+body {
+    width: auto;
+    height: auto;
+    background-color: rgba(134, 29, 29, 0.828);
+    border: 3px solid;
+    padding: 7px 7px 7px 7px;
+}
+.basichalf {
+    text-align: center;
+    color: black;
+    font-family: American Typewriter, serif;
+    ;
+}
+.middlehalf {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size:x-large;
+
+}
+.table {
+    border: 3px solid;
+    padding: 9px 9px 9px 9px;
+    text-align: center;
+}
+#notwhite {
+    color: black;
+}
+.tab {
+    margin-left: auto;
+    margin-right: auto;
+}
+#connect {
+    font-family:American Typewriter, serif;
+}
+#connectnow {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 50%;
+}
+.pfp {
+    border-radius: 50%;
+}
+
