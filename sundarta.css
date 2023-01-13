@@ -38,7 +38,14 @@ body {
     text-align: center;
     border-radius: 50%;
 }
-.pfp {
-    border-radius: 50%;
+.pfp img {
+    border-radius: 50% ;
 }
-
+.icons{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.icons a {
+    padding: .5rem;
+}
