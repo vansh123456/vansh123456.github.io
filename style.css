@@ -1,0 +1,72 @@
+.headerr {
+    width:100%;
+}
+.headerr h1{
+    text-align: center;
+}
+.headerr p {
+    text-align: center;
+}
+.upup {
+    background-color: black;
+    color: aliceblue;
+}
+.signmebutton{
+    background-color: yellow;
+    border-radius: 9px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    text-decoration: none;
+    width: 10%;
+}
+.signmebutton p {
+    background-color: yellow;
+}
+
+nav {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px;
+}
+nav ul li {
+    display:inline-block;
+    list-style: none;
+    margin: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+}
+.middle {
+    background-color: grey;
+}
+#banner {
+    text-align: left;
+}
+.banner2 {
+    text-align: right;
+}
+.banner2 p{
+    text-align: right;
+}
+.sales{
+    margin-left: 80px;
+}
+#search {
+    display: flex;
+    justify-content: flex-end;
+}
+#logo {
+    margin-left: 90px;
+}
+#search {
+    margin-left: 90px;
+}
+.login {
+    display: inline-block;
+    text-align: right;
+    margin-left: 20em;
+}
